@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+
+This project is a simple weather app that uses the OpenWeatherMap API to fetch weather data for a given city. The user can search for a city and the app will display the current weather conditions for that city. The app also displays a 5-day forecast for the city. The user can also save a city to their favorites list. The user can also remove a city from their favorites list. The user can also view the current weather conditions for their
+
+## Project Requirements
+
+- In api.js, update the X-RapidAPI-Key variable with your API key.
+- In api.js, update the weatherApiKey variable with your OpenWeathermap API.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
